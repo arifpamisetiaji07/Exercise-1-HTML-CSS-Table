@@ -1,0 +1,1 @@
+Create a table with data and styling like example output:
